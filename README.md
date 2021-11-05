@@ -3,7 +3,8 @@
 * 努力学习中，想变成大佬💪
 * 想法很多，就是待实现咯～
 
-![alt 头像](https://i.loli.net/2021/11/06/3V2OAvR6PWQhEJz.jpg)
+###联系方式:
+[Telegram](https://t.me/Coldin04)
 
 <!--
 **Coldin04/Coldin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
