@@ -1,4 +1,8 @@
-### Hi there 👋
+### 是酷丁哦！一个大号的小可爱 👋
+*努力学习中，想变成大佬💪
+*想法很多，就是待实现咯～
+
+![alt 头像](https://avatars.githubusercontent.com/u/62976132?v=4)
 
 <!--
 **Coldin04/Coldin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
