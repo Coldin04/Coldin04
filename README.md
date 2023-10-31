@@ -19,6 +19,8 @@ Email to me@coldin.top
 ### Other……
 I can't think of anything more at the moment, you can follow me on my homepage!
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coldin04&show_icons=true">
+
 <!--
 **Coldin04/Coldin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
