@@ -8,7 +8,10 @@ Email to me@coldin.top
 
 ### 🌐 Website:
 [🏠 Home page](https://coldin.top)
+
 [📝 Blog page](https://blog.coldin.top)
+
+[✍🏻️ Note page](https://note.coldin.top)
 
 ### 🤔 I’m looking for help with:
 1. My English level.
