@@ -17,8 +17,7 @@ Email to me@coldin.top
 1. My English level.
 2. My sad emotions.
 
-### 🔒 GPG key ID: 
-0FFA5635DFE83D4C
+
 ### Other……
 I can't think of anything more at the moment, you can follow me on my homepage!
 
