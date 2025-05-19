@@ -30,6 +30,12 @@ Email to me@coldin.top
 
 ⚠️ 请注意，十分建议通过多渠道来获取PGP公钥来交叉验证，以防止出现伪造身份的情况。更重要的是，请在交流时保持谨慎，同时从多维度，例如行为匹配性，账号信任程度等多方面来验证和你交流的朋友是否值得信赖，也侧面验证是否是“同一个人”。上网冲浪时请时刻提防，谨防诈骗。
 
+### 💰 ETH 地址
+
+在此 ETH 地址中，也同样会发布部分重要的变动消息，若发生变更，建议交叉验证。
+
+`0xD6bb553cCEA15988B04012977aBbcDB3e929918B`
+
 ### Other……
 I can't think of anything more at the moment, you can follow me on my homepage!
 
