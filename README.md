@@ -34,7 +34,8 @@ Email to me@coldin.top
 
 在此 ETH 地址中，也同样会发布部分重要的变动消息，若发生变更，建议交叉验证。
 
-`0xD6bb553cCEA15988B04012977aBbcDB3e929918B`
+`coldin.eth` (
+`0xdAB4f9dff3b6d4884A955F7e966a745724787835` )
 
 ### Other……
 I can't think of anything more at the moment, you can follow me on my homepage!
