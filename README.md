@@ -1,7 +1,7 @@
 # Hi there ,I'm Coldin04. 👋
 
 ### 📫 How to reach me:
-Email to me@coldin.top
+Email to me@cold04.me
 
 ###  😄 Favorite words:
 “永远相信美好的事情即将发生！”
