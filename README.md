@@ -7,11 +7,11 @@ Email to me@coldin.top
 “永远相信美好的事情即将发生！”
 
 ### 🌐 Website:
-[🏠 Home page](https://coldin.top)
+[🏠 Home page](https://cold04.com)
 
-[📝 Blog page](https://blog.coldin.top)
+[📝 Blog page](https://blog.cold04.com)
 
-[✍🏻️ Note page](https://note.coldin.top)
+[✍🏻️ Note page](https://note.cold04.com)
 
 ### 🤔 I’m looking for help with:
 1. My English level.
@@ -20,7 +20,7 @@ Email to me@coldin.top
 ### 🛡️ 我的 PGP 公钥
 
 **User ID（标识）：**  
-`Coldin04 <me@coldin.top>`
+`Coldin04 <me@cold04.me>`
 
 **指纹（Fingerprint）：**  
 `D6F11B7A62E15450B0FD07E46E4BE46742845414`
