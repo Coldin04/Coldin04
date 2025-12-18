@@ -20,7 +20,7 @@ Email to  me@cold04.com
 ### 🛡️ 我的 PGP 公钥
 
 **User ID（标识）：**  
-`Coldin04 <me@cold04.me>`
+`Coldin04 <me@coldin.top>`
 
 **指纹（Fingerprint）：**  
 `D6F11B7A62E15450B0FD07E46E4BE46742845414`
